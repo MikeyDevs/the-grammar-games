@@ -1,0 +1,22 @@
+p {
+    text-align: center;
+    font-family: 'Crimson Text', serif;
+    color: #A0B9BF;
+    font-weight: bolder;
+    font-size: 20pt;
+}
+
+.btn {
+    margin: 20px;
+    background-color: #A0B9BF;
+    color: white;
+    font-family: 'Crimson Text', serif;
+}
+
+#gram-picture {
+    padding-bottom: 20px;
+}
+
+Footer {
+    flex: 0 0 auto;
+}

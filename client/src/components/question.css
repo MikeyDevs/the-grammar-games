@@ -1,0 +1,14 @@
+@media screen and (max-width: 900px) {
+    #questiontext {
+        font-size: 20pt;
+    }
+ 
+
+  }
+  
+  @media screen and (max-width: 600px) {
+    #questiontext {
+        font-size: 12pt;
+    }
+
+  }

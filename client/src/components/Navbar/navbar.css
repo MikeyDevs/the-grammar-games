@@ -1,0 +1,73 @@
+.navbar {
+    background-color: #A0B9BF;
+    font-family: 'Bungee Hairline', cursive;
+    font-size: 5px;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+#logo {
+    color: white;
+    font-size: 50px;
+}
+
+/* #login {
+    width: 150px;
+    height: 40px;
+    background-image: url("./signin.png");
+    background-size: 150px 40px;
+    padding-right: 50px;
+}
+
+#logout {
+    width: 70px;
+    height: 30px;
+    background-image: url("./signout.png");
+    background-size: 70px 30px;
+} */
+
+.username {
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Crimson Text', serif;
+    color: #A0B9BF;
+}
+
+#toggler {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.tabitem {
+    color: white;
+    font-size: 15pt;
+    padding-left: 10px;
+    padding-right: 10px; 
+}
+
+.tabitem:hover {
+    color: white;
+}
+
+
+@media screen and (max-width: 900px) {
+    #logo {
+        font-size: 40px;
+    }
+    .tabitem {
+        padding-left: 0px;
+        padding-right: 0px; 
+    }
+ 
+
+  }
+  
+  @media screen and (max-width: 600px) {
+    #logo {
+        font-size: 25px;
+    }
+
+  }

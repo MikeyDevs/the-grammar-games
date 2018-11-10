@@ -1,0 +1,25 @@
+.youtubevid {
+    display: block;
+    margin: 0 auto;
+}
+
+.button {
+    text-align: center;
+}
+
+@media screen and (max-width: 900px) {
+    .youtubevid {
+        height: 200;
+        width: 500; 
+    }
+ 
+
+  }
+  
+  @media screen and (max-width: 600px) {
+    .youtubevid {
+        height: 200;
+        width: 500; 
+    }
+
+  }

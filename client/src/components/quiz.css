@@ -1,0 +1,34 @@
+#quiz {
+    margin: auto;
+    width: 55%;
+    padding: 30px;
+    font-family: 'Gentium Basic', serif;
+}
+
+.btn {
+    margin: 20px;
+    background-color: #A0B9BF;
+    color: white;
+    font-family: 'Crimson Text', serif;
+}
+
+@media screen and (max-width: 900px) {
+    #quiztitle {
+        font-size: 22pt;
+    }
+
+    #questioncounter {
+        font-size: 22pt;
+    }
+ 
+
+  }
+  
+  @media screen and (max-width: 600px) {
+    #quiztitle {
+        font-size: 15pt;
+    }
+    #questioncounter {
+        font-size: 13pt;
+    }
+  }

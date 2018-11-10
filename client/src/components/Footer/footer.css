@@ -1,0 +1,25 @@
+.brandname {
+    text-align: center;
+    color: #ff69b4;
+    font-size: 12pt;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    font-family: 'Bungee Hairline', cursive;
+    font-weight: 900;
+}
+.cursive {
+    font-family: 'Clicker Script', cursive;
+    font-size: 14pt;
+    font-weight: 200;
+}
+
+.normal {
+    font-family: 'Gentium Book Basic', serif;
+    font-size: 11pt;
+    font-weight: 100;
+}
+
+hr {
+    width: 100%;
+}
